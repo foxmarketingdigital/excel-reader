@@ -1,0 +1,36 @@
+{
+  "name": "foxmarketingdigital/excel-reader",
+  "description": "Uma biblioteca para leitura de arquvivos xls e xlsx",
+  "type": "library",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "keywords": [
+    "Excel",
+    "xlsx",
+    "xls",
+    "reader",
+    "ler excel"
+  ],
+  "authors": [
+    {
+      "name": "Vinicius Resende dos Santos",
+      "email": "vinicius@foxmarketingdigital.com.br",
+      "role": "Developer"
+    }
+  ],
+  "homepage": "https://www.foxmarketingdigital.com.br",
+
+  "require": {
+    "shuchkin/simplexlsx": "0.8.9",
+    "php": "^7.2",
+    "ext-gd": "*",
+    "ext-mbstring": "*",
+    "ext-exif": "*",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Foxmarketingdigital\\ExcelReader\\": "src"
+    }
+  }
+}

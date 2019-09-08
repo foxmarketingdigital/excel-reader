@@ -1,0 +1,11 @@
+.idea/
+vendor
+.idea/$PRODUCT_WORKSPACE_FILE$
+.idea/.gitignore
+.idea/composerJson.xml
+.idea/excel-reader.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/php.xml
+composer.lock
+vendor/
