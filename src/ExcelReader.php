@@ -13,7 +13,7 @@
     class ExcelReader extends SimpleXLSX
     {
         /**
-         * @var
+         * @var string
          */
         private $file;
 
