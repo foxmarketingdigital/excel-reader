@@ -2,7 +2,7 @@
   "name": "foxmarketingdigital/excel-reader",
   "description": "Uma biblioteca para leitura de arquvivos xls e xlsx",
   "type": "library",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "MIT",
   "keywords": [
     "Excel",
